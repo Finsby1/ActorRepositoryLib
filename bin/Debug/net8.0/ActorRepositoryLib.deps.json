@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ActorRepositoryLib/1.0.0": {
+        "runtime": {
+          "ActorRepositoryLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActorRepositoryLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/bin/Debug/net8.0/ActorRepositoryLib.deps.json
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/bin/Debug/net8.0/ActorRepositoryLib.dll
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/bin/Debug/net8.0/ActorRepositoryLib.pdb
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.AssemblyInfoInputs.cache
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.AssemblyInfo.cs
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.csproj.CoreCompileInputs.cache
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.sourcelink.json
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.dll
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/refint/ActorRepositoryLib.dll
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ActorRepositoryLib.pdb
+/Users/finsby/Desktop/React1/ActorRepositoryLib/ActorRepositoryLib/obj/Debug/net8.0/ref/ActorRepositoryLib.dll
