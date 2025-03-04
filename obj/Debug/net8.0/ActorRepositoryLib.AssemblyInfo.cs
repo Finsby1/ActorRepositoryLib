@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActorRepositoryLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f4bdcb5046e00bcdb1b7c5b6cf1ae944fb7857")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce06c5399e64d5967fc928ad266456b574042686")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActorRepositoryLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActorRepositoryLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

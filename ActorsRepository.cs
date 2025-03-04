@@ -10,9 +10,41 @@ public class ActorsRepository
         return _actors.FirstOrDefault(x => x.Id == Id);
     }
 
-    public List<Actor> GetActors()
+    public IEnumerable<Actor> GetActors(int? birthYearAfter = null, string? nameIncludes = null, string? orderBy = null)
     {
-        return _actors;
+        IEnumerable<Actor> result = new List<Actor>(_actors);
+        
+        //filtering
+        if (birthYearAfter ! != null)
+        {
+            result = result.Where(x => x.BirthYear > birthYearAfter);
+        }
+        
+        //sorting
+        if (orderBy != null)
+        {
+            orderBy = orderBy.ToLower();
+            switch (orderBy)
+            {
+                case "name": 
+                case "name asc":
+                    result = result.OrderBy(x => x.Name);
+                    break;
+                case "name desc":
+                    result = result.OrderByDescending(x => x.Name);
+                    break;
+                case "birth year":
+                case "birth year asc":
+                    result = result.OrderBy(x => x.BirthYear);
+                    break;
+                case "birth year desc":
+                    result = result.OrderByDescending(x => x.BirthYear);
+                    break;
+                default:
+                    break;
+            }
+        }
+        return result;
     }
 
     public Actor AddActor(Actor actor)
